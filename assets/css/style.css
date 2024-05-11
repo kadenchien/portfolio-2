@@ -846,6 +846,10 @@ section {
   padding-top: 10px;
 }
 
+.carousel-inner .carousel-item {
+  transition: transform 0.3s ease; /* Adjust the transition timing here */
+}
+
 .services .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
